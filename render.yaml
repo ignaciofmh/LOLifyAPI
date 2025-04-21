@@ -1,7 +1,7 @@
 databases:
   - name: lolify
-    databaseName: lolify
-    user: lolify
+    databaseName: lolifydb
+    user: lolifydb_user
     plan: free
 
 services:
