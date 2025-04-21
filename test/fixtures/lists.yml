@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  list_type: MyString
+  user: one
+  joke: one
+
+two:
+  list_type: MyString
+  user: two
+  joke: two
